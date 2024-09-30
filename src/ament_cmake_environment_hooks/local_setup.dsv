@@ -1,0 +1,2 @@
+source;share/temperature/environment/ament_prefix_path.sh
+source;share/temperature/environment/path.sh
